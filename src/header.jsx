@@ -1,6 +1,7 @@
 import * as React from 'react';
 
-export function Header(){
+
+export default function Header(){
     return (
         <header>
             <h1>

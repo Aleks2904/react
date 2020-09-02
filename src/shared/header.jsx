@@ -5,11 +5,10 @@ function HeaderComponent(){
     return (
         <header>
             <h1>
-                hello react 123
+                hello react 1232
             </h1>
         </header>
     )
 }
 
 export const Header = hot(HeaderComponent);
-

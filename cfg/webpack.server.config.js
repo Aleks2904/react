@@ -31,7 +31,7 @@ module.exports = {
                                 mode: 'local',
                                 localIdentName: "[name]__[local]___[hash:base64:5]",
                             },
-                            onlyLocals: true,
+                           // onlyLocals: true,
                         }
                     },
                     'sass-loader',

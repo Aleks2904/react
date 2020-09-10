@@ -17,6 +17,7 @@
     "cross-env": "^7.0.2",
     "css": "^3.0.0",
     "css-loader": "^4.3.0",
+    "css-loader-functional-locals-convention": "^3.4.1",
     "html-webpack-plugin": "^4.3.0",
     "react-hot-loader": "^4.12.21",
     "sass": "^1.26.10",

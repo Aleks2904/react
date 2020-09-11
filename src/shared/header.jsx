@@ -6,7 +6,7 @@ function HeaderComponent(){
     return (
         <header>
             <h1 className={styles.rd}>
-                hello react 12325
+                hello react
             </h1>
         </header>
     )
